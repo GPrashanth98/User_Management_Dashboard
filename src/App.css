@@ -1,0 +1,14 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.app-title {
+  color: #333;
+}
+
+.error {
+  color: red;
+  margin: 10px 0;
+}
